@@ -1,2 +1,2 @@
 # letcode
-letcode每日一练
+letcode每周一练，记录思路与解法
